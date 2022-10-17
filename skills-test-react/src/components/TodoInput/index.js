@@ -17,7 +17,10 @@ const TodoInputComponent = ({}) => {
     },
     onSubmit: (values, { resetForm }) => {
       const todo = values.todo;
-      dispatch(Actions.todo.addTodo({ todo }));
+      if (todo !== "") {
+        dispatch(Actions.todo.addTodo({ todo }));
+      }
+
       resetForm();
     },
   });
