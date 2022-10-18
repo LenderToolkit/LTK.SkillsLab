@@ -17,7 +17,7 @@ const TodoInputComponent = ({}) => {
     },
     onSubmit: (values, { resetForm }) => {
       const todo = values.todo;
-      if (todo !== "") {
+      if (todo.replace(/\s/g, '').length) {
         dispatch(Actions.todo.addTodo({ todo }));
       }
 
