@@ -8,7 +8,7 @@ import { CONSTANTS } from "../../constants";
 
 import { Button, Input, Paper, Typography } from "@mui/material";
 
-const TodoInputComponent = ({}) => {
+const TodoInputComponent = () => {
   const dispatch = useDispatch();
 
   const todoForm = useFormik({
@@ -17,7 +17,7 @@ const TodoInputComponent = ({}) => {
     },
     onSubmit: (values, { resetForm }) => {
       const todo = values.todo;
-      if (todo !== "") {
+      if (todo.replace(/\s/g, "").length) {
         dispatch(Actions.todo.addTodo({ todo }));
       }
 
