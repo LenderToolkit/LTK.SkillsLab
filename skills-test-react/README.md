@@ -5,7 +5,7 @@ This skills test is designed to allow you to showcase your development abilities
 * Candidates will have one hour to complete the exercise. 
 * Google can be used to lookup helpful information as needed.
 * Do not worry if you cannot fully complete the test within the allotted time, the purpose of the test is to allow us to determine skills and to get an insight into how you go about solving the problem.
-* While the session is being recorded, no one will be actively watching, however we will remain on audio in case of questions or if you need clarification.
+* Please submit a live recording of the exercise.
 
 ## Prerequisites
 
