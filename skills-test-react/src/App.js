@@ -17,11 +17,11 @@ export default function App() {
 		}
 	};
   return (
-    <Container maxWidth="sm">
-	<AccountMenu onClick={handleOnClick} />
-	{openForm && <Basicorm />}
+    <Container maxWidth='sm'>
+      <AccountMenu onClick={handleOnClick} />
+      {openForm && <BasicForm />}
       <Box sx={{ my: 4 }}>
-        <Typography variant="h4" component="h1" gutterBottom>
+        <Typography variant='h4' component='h1' gutterBottom>
           React Skills test
         </Typography>
       </Box>
