@@ -1,2 +1,2 @@
-# Skills-Test-React
-This project is for testing applicants skills with react &amp; node.js development
+# LTK Skills Lab
+This project is for testing applicants skills with different technologies used at LTK
