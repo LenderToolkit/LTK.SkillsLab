@@ -1,0 +1,15 @@
+{
+  "name": "mockapilab",
+  "version": "1.0.0",
+  "description": "A Mock API to be used with LTK Skills assesments",
+  "main": "index.js",
+  "scripts": {
+	"start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Watson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
