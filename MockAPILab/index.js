@@ -10,6 +10,12 @@ app.get('/', (req, res) => {
 	});
 });
 
+app.get("/ping", (req, res) => {
+	res.json({
+		message: "🏓",
+	});
+});
+
 if (isLocal) {
 	app.listen(port, () => {
 		console.log(`Example app listening on port ${port}`)
