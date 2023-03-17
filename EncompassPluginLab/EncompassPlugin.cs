@@ -21,6 +21,7 @@ namespace EncompassPluginLab
             _loan = EncompassApplication.CurrentLoan;
             _loan.FieldChange += Loan_FieldChange;
             addConversationLogEntryOnLoanOpen();
+
         }
 
         // step 3) Update Plugin so that the plugin adds a conversation log entry on Loan Open notating the user that opened the loan.
