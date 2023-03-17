@@ -1,6 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncompassPluginLab", "EncompassPluginLab.csproj", "{51704160-F8E4-462D-B2C4-920897537BD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncompassPluginLab.UnitTest", "..\EncompassPluginLab.UnitTest\EncompassPluginLab.UnitTest.csproj", "{D49F2E12-85FC-48C8-98E7-D3B497B888AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +17,15 @@ Global
 		{51704160-F8E4-462D-B2C4-920897537BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51704160-F8E4-462D-B2C4-920897537BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51704160-F8E4-462D-B2C4-920897537BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D49F2E12-85FC-48C8-98E7-D3B497B888AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49F2E12-85FC-48C8-98E7-D3B497B888AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49F2E12-85FC-48C8-98E7-D3B497B888AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49F2E12-85FC-48C8-98E7-D3B497B888AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29D11F49-13BD-4EF6-B83A-1409460A2584}
 	EndGlobalSection
 EndGlobal
