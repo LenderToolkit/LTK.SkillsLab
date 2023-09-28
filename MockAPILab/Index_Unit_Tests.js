@@ -1,6 +1,7 @@
 const request = require('supertest');
 const express = require('express');
-const app = require('./index');  // Adjust path accordingly
+const app = require('./index');
+
 describe('Index Routes', () => {
   // 1. Return a welcome message
   it('should return a welcome message', async () => {
