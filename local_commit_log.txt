@@ -11,3 +11,4 @@
 20230928_1039, setup_npm_json, 65, Implement Versioning, Get NPM Setup
 20230928_1039, setup_npm_json, 66, Implement Versioning, Get NPM Setup
 20230928_1040, Testing commit to local file
+20230928_1040, setup_dir_and_files, 67, Modify Directory Structures & Create Files
