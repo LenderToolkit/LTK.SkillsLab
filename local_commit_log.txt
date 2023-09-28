@@ -29,3 +29,5 @@
 20230928_1053, setup_npm_json, 72, Implement Versioning, Get NPM Setup
 20230928_1054, setup_npm_json, 72, Implement Versioning, Get NPM Setup
 20230928_1054, setup_npm_json, 72, Implement Versioning, Get NPM Setup
+20230928_1055, setup_npm_json, 73, Implement Versioning, Get NPM Setup
+20230928_1059, setup_linting, 37, Implement Linting
