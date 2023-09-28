@@ -1,0 +1,12 @@
+{
+  "name": "tat_solution_project",
+  "version": "0.1.0",
+  "description": "This project is for testing applicants skills with different technologies used at LTK",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
