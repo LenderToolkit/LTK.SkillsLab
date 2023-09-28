@@ -1,15 +1,35 @@
 {
-  "name": "mockapilab",
+  "name": "tat_solution_node",
   "version": "1.0.0",
   "description": "A Mock API to be used with LTK Skills assesments",
   "main": "index.js",
   "scripts": {
-	"start": "nodemon index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "release": "standard-version",
+    "start": "node index.js",
+    "test": "jest"
   },
   "author": "Tom Watson",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
-  }
+    "@reduxjs/toolkit": "^1.9.6",
+    "chai": "^4.3.10",
+    "chai-http": "^4.4.0",
+    "express": "^4.18.2",
+    "express-winston": "^4.2.0",
+    "joi": "^17.10.2",
+    "loglevel": "^1.8.1",
+    "prom-client": "^14.2.0",
+    "react-ga": "^3.3.1",
+    "react-redux": "^8.1.2",
+    "react-router-dom": "^6.16.0",
+    "redux": "^4.2.1",
+    "sqlite3": "^5.1.6",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0",
+    "winston": "^3.10.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "keywords": []
 }
