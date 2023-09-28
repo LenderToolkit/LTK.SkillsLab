@@ -7,3 +7,4 @@
 20230928_1036, setup_npm_json, 62, Implement Versioning, Get NPM Setup
 20230928_1038, setup_linting, 37, Implement Linting
 20230928_1038, setup_dir_and_files, 67, Modify Directory Structures & Create Files
+20230928_1038, setup_npm_json, 65, Implement Versioning, Get NPM Setup
