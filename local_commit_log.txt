@@ -96,3 +96,6 @@
 20230928_1239, setup_cicd, 72, Implement CICD
 20230928_1241, setup_cicd, 73, Implement CICD
 20230928_1241, setup_cicd, 71, Implement CICD
+20230928_1242, setup_node_unit_tests, 141, Create Unit Testing for Node Index.js
+20230928_1246, setup_node_unit_tests, 142, Create Unit Testing for Node Index.js
+20230928_1246, setup_cicd, 72, Implement CICD
