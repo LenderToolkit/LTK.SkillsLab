@@ -44,3 +44,4 @@
 20230928_1125, setup_dir_and_files, 67, Modify Directory Structures & Create Files
 20230928_1126, setup_npm_json, 53, Implement Versioning, Get NPM Setup
 20230928_1126, setup_linting, 52, Implement Linting
+20230928_1127, setup_linting, 44, Implement Linting
