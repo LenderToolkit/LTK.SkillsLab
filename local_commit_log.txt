@@ -82,3 +82,4 @@
 20230928_1230, setup_dir_and_files, 76, Modify Directory Structures & Create Files
 20230928_1231, setup_npm_json, 68, Implement Versioning, Get NPM Setup
 20230928_1232, setup_linting, 37, Implement Linting
+20230928_1233, setup_logging, 46, Create Logger.js in Node & React Dir
