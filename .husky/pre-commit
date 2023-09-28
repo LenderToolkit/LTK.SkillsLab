@@ -1,1 +1,3 @@
+#!/usr/bin/env zsh
 . '/Users/tat/TAT_FORK/.husky/_/husky.sh'
+npx lint-staged
