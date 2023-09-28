@@ -80,3 +80,5 @@
 20230928_1227, node_solutions, 111, Create Solutions to Node Assessment
 20230928_1227, react_solutions, 55, Create Solutions to React Assessment
 20230928_1230, setup_dir_and_files, 76, Modify Directory Structures & Create Files
+20230928_1231, setup_npm_json, 68, Implement Versioning, Get NPM Setup
+20230928_1232, setup_linting, 37, Implement Linting
