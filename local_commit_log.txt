@@ -15,3 +15,4 @@
 20230928_1041, setup_npm_json, 67, Implement Versioning, Get NPM Setup
 20230928_1042, setup_npm_json, 69, Implement Versioning, Get NPM Setup
 20230928_1042, setup_dir_and_files, 67, Modify Directory Structures & Create Files
+20230928_1042, setup_npm_json, 69, Implement Versioning, Get NPM Setup
